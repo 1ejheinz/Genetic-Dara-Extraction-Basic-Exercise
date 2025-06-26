@@ -1,0 +1,4 @@
+pandas
+fpdf
+PyPDF2
+PyVCF

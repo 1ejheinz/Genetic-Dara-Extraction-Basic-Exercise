@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.vcf
+*.vcf.gz
+output/*.pdf
+data/*.tsv
