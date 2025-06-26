@@ -3,7 +3,7 @@
 Generate a full personalized genetic health report from your VCF/TSV files.
 
 ### Author
-Edward J Heinz — based on custom imputed genome analysis, trait curation, and full-lifestyle integration.
+Edward J Heinz — based on example imputed genome analysis, and trait curation.
 
 ### Features
 - Parses and extracts genotypes from VCF or TSV files
